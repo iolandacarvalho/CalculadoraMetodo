@@ -1,0 +1,15 @@
+C:\Users\Alunos\Documents\Iolanda Carvalho\CalculadoraMetodo\Código\bin\Debug\net8.0\Código.exe
+C:\Users\Alunos\Documents\Iolanda Carvalho\CalculadoraMetodo\Código\bin\Debug\net8.0\Código.deps.json
+C:\Users\Alunos\Documents\Iolanda Carvalho\CalculadoraMetodo\Código\bin\Debug\net8.0\Código.runtimeconfig.json
+C:\Users\Alunos\Documents\Iolanda Carvalho\CalculadoraMetodo\Código\bin\Debug\net8.0\Código.dll
+C:\Users\Alunos\Documents\Iolanda Carvalho\CalculadoraMetodo\Código\bin\Debug\net8.0\Código.pdb
+C:\Users\Alunos\Documents\Iolanda Carvalho\CalculadoraMetodo\Código\obj\Debug\net8.0\Código.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\Iolanda Carvalho\CalculadoraMetodo\Código\obj\Debug\net8.0\Código.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\Iolanda Carvalho\CalculadoraMetodo\Código\obj\Debug\net8.0\Código.AssemblyInfo.cs
+C:\Users\Alunos\Documents\Iolanda Carvalho\CalculadoraMetodo\Código\obj\Debug\net8.0\Código.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\Iolanda Carvalho\CalculadoraMetodo\Código\obj\Debug\net8.0\Código.sourcelink.json
+C:\Users\Alunos\Documents\Iolanda Carvalho\CalculadoraMetodo\Código\obj\Debug\net8.0\Código.dll
+C:\Users\Alunos\Documents\Iolanda Carvalho\CalculadoraMetodo\Código\obj\Debug\net8.0\refint\Código.dll
+C:\Users\Alunos\Documents\Iolanda Carvalho\CalculadoraMetodo\Código\obj\Debug\net8.0\Código.pdb
+C:\Users\Alunos\Documents\Iolanda Carvalho\CalculadoraMetodo\Código\obj\Debug\net8.0\Código.genruntimeconfig.cache
+C:\Users\Alunos\Documents\Iolanda Carvalho\CalculadoraMetodo\Código\obj\Debug\net8.0\ref\Código.dll
